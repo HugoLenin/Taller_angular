@@ -1,0 +1,26 @@
+.banner {
+  background-color: #0dcaf0; /* azul turquesa */
+  padding: 15px 0;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.banner .container {
+  display: flex;
+  align-items: center;
+}
+
+.banner .logo {
+  width: 40px;
+  height: 40px;
+}
+
+.banner .title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+main.container {
+  margin-top: 30px;
+}
